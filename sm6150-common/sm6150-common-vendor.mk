@@ -129,6 +129,7 @@ PRODUCT_PACKAGES += \
     libqmiservices \
     libvpphvx \
     libvpplibrary \
+    libdirac \
     vendor.qti.hardware.vpp@1.1 \
     vendor.qti.hardware.vpp@1.2 \
     vendor.qti.hardware.vpp@1.3 \
@@ -180,6 +181,7 @@ PRODUCT_PACKAGES += \
     libsns_device_mode_skel \
     libsns_low_lat_stream_skel \
     libasphere \
+    libmisoundfx \
     libshoebox \
     com.qualcomm.qti.dpm.api@1.0_vendor \
     com.qualcomm.qti.imscmservice@2.0 \
